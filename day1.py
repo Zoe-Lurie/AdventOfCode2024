@@ -1,6 +1,6 @@
 
 def parseFile():
-    with open('input1.txt', 'r') as file:
+    with open('input/input1.txt', 'r') as file:
         l1 = []
         l2 = []
         for line in file:
